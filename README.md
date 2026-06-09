@@ -166,5 +166,6 @@ Dentro do Swagger será possível:
 * Excluir registros.
 
 Ou seja, realizar todas as operações CRUD (Create, Read, Update e Delete) diretamente pela interface gráfica.
+<img width="1680" height="936" alt="GlobalSolutionDevops" src="https://github.com/user-attachments/assets/88987cd4-2950-44b5-a2de-6e9048d1eff5" />
 
 ---
